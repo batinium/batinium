@@ -13,6 +13,10 @@ PhD researcher in AI (Computer Engineering, Bahçeşehir University). I build ap
 - Responsible release of sensitive NLP datasets
 - AI for education and assessment
 
+### Publications
+
+- **Context-Aware Evidence Minimization for Privacy-Conscious Harmful-Speech Dataset Release** — WOAH 2026, the 10th Workshop on Online Abuse and Harms at EMNLP 2026 (to appear). Releasing only the tokens a classifier finds important corrupts the data: a reader recovers the targeted group just 36% of the time. I-CEM is a deterministic baseline that recovers that context. · [code and results](https://github.com/batinium/icem-woah2026) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21974841.svg)](https://doi.org/10.5281/zenodo.21974841)
+
 ### Code
 
 - **[speechgauge](https://github.com/batinium/speechgauge)** — offline pronunciation, fluency, and prosody scoring (GOP, semitone prosody, forced alignment). No cloud. · [write-up](https://batinorene.hashnode.dev/speechgauge)
