@@ -1,5 +1,3 @@
-<img alt="AI researcher: LLMs, RAG and speech systems" src="assets/header-light.svg" width="100%">
-
 AI researcher. I build applied AI systems (LLMs, retrieval-augmented generation, speech) and study the evaluation methods that tell us whether they actually work.
 
 ### Research
