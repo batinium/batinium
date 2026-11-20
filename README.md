@@ -18,8 +18,3 @@ AI researcher. I build applied AI systems (LLMs, retrieval-augmented generation,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Elsewhere
-
-[![Website](https://img.shields.io/badge/Website-batinorene.com-2563eb?style=flat-square)](https://batinorene.com)
-[![Blog](https://img.shields.io/badge/Blog-hashnode-2962ff?style=flat-square&logo=hashnode&logoColor=white)](https://batinorene.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-batin--orene-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batin-orene/)
