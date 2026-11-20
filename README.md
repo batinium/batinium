@@ -1,29 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Batın Örene — PhD researcher in AI, applied LLM, RAG and speech systems" src="assets/header-light.svg" width="100%">
-</picture>
+<img alt="AI researcher: LLMs, RAG and speech systems" src="assets/header-light.svg" width="100%">
 
-PhD researcher in AI (Computer Engineering, Bahçeşehir University). I build applied AI systems — LLMs, retrieval-augmented generation, speech — and study the evaluation methods that tell us whether they actually work.
+AI researcher. I build applied AI systems (LLMs, retrieval-augmented generation, speech) and study the evaluation methods that tell us whether they actually work.
 
 ### Research
-
 - Agentic and graph-based retrieval-augmented generation
 - LLM evaluation and hallucination detection
 - Human verification and oversight in agent-driven workflows
-- Responsible release of sensitive NLP datasets
-- AI for education and assessment
-
-### Publications
-
-- **Context-Aware Evidence Minimization for Privacy-Conscious Harmful-Speech Dataset Release** — WOAH 2026, the 10th Workshop on Online Abuse and Harms at EMNLP 2026 (to appear). Releasing only the tokens a classifier finds important corrupts the data: a reader recovers the targeted group just 36% of the time. I-CEM is a deterministic baseline that recovers that context. · [code and results](https://github.com/batinium/icem-woah2026) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21974841.svg)](https://doi.org/10.5281/zenodo.21974841)
 
 ### Code
-
-- **[speechgauge](https://github.com/batinium/speechgauge)** — offline pronunciation, fluency, and prosody scoring (GOP, semitone prosody, forced alignment). No cloud. · [write-up](https://batinorene.hashnode.dev/speechgauge)
-- **[co-draft](https://github.com/batinium/co-draft)** — human-in-the-loop LLM text editing: the model proposes span edits, you approve them as visual diffs. · [write-up](https://batinorene.hashnode.dev/co-draft)
-- **[PrivHSD-Challenge](https://github.com/batinium/PrivHSD-Challenge)** — privacy-aware workflow for releasing and reviewing harmful-speech datasets. Built at the Council of Europe Democracy Hackathon.
-- **[Speaklify](https://github.com/batinium/Speaklify)** — ASR + LLM pipeline for CEFR-aligned speaking assessment and feedback.
-- **[turkish-math-curriculum-nlp](https://github.com/batinium/turkish-math-curriculum-nlp)** — unsupervised NLP analysis of curriculum change in Turkish mathematics education.
+- **[speechgauge](https://github.com/batinium/speechgauge)**: offline pronunciation, fluency, and prosody scoring.
+- **[co-draft](https://github.com/batinium/co-draft)**: human-in-the-loop LLM text editing.
 
 ### Toolkit
 
